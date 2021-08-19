@@ -25,7 +25,7 @@ If you use our dataset in your work, please cite us:
 
 ```
 @article{graphgt,
-  title={Therapeutics Data Commons: Machine Learning Datasets and Tasks for Therapeutics},
+  title={GraphGT: Datasets for Graph Generation and Transformation by Machine Learning},
   author={Du, Yuanqi and Wang, Shiyu and Guo, Xiaojie and Cao, Hengning and Jiang, Junji and Hu, Shujie and Varala, Aishwarya and Angirekula, Abhinav and Zhao, Liang},
   year={2021}
 }
