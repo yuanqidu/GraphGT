@@ -25,7 +25,7 @@ If you use our dataset in your work, please cite us:
 
 ```
 @article{graphgt,
-  title={GraphGT: Datasets for Graph Generation and Transformation by Machine Learning},
+  title={GraphGT: Machine Learning Datasets for Graph Generation and Transformation},
   author={Du, Yuanqi and Wang, Shiyu and Guo, Xiaojie and Cao, Hengning and Jiang, Junji and Hu, Shujie and Varala, Aishwarya and Angirekula, Abhinav and Zhao, Liang},
   year={2021}
 }
