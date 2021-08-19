@@ -19,6 +19,18 @@ pip install GraphGT
 pip install GraphGT --upgrade
 ```
 
+## Cite Us
+
+If you use our dataset in your work, please cite us:
+
+```
+@article{graphgt,
+  title={Therapeutics Data Commons: Machine Learning Datasets and Tasks for Therapeutics},
+  author={Du, Yuanqi and Wang, Shiyu and Guo, Xiaojie and Cao, Hengning and Jiang, Junji and Hu, Shujie and Varala, Aishwarya and Angirekula, Abhinav and Zhao, Liang},
+  year={2021}
+}
+```
+
 ## Team
 [Yuanqi Du](https://yuanqidu.github.io/) (Leader), Shiyu Wang, Xiaojie Guo, Hengning Cao, Shujie Hu, Junji Jiang, Aishwarya Varala, Abhinav Angirekula, [Liang Zhao](http://cs.emory.edu/~lzhao41/) (Advisor)
 
