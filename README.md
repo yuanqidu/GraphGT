@@ -4,4 +4,4 @@
 <!-- [![PyPI version](https://badge.fury.io/py/PyTDC.svg)](https://badge.fury.io/py/PyTDC)
 [![Downloads](https://pepy.tech/badge/pytdc/month)](https://pepy.tech/project/pytdc)
 [![Downloads](https://pepy.tech/badge/pytdc)](https://pepy.tech/project/pytdc) -->
-[![GitHub Repo stars](https://img.shields.io/github/stars/mims-harvard/TDC)](https://github.com/yuanqidu/GraphGT/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/yuanqidu/GraphGT)](https://github.com/yuanqidu/GraphGT/stargazers)
