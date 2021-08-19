@@ -19,3 +19,12 @@ pip install GraphGT
 pip install GraphGT --upgrade
 ```
 
+## Team
+Leader: Yuanqi Du
+
+Team Member: Shiyu Wang, Xiaojie Guo, Hengning Cao, Shujie Hu, Junji Jiang, Aishwarya Varala, Abhinav Angirekula
+
+Advisor: Liang Zhao
+
+## Contact
+Send us an [email](mailto:ydu6@gmu.edu) or open an issue.
