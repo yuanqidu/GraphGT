@@ -1,1 +1,1 @@
-### GraphGT: Systematic Datasets for Graph Generation and Transformation
+### GraphGT: Datasets for Graph Generation and Transformation by Machine Learning
