@@ -1,9 +1,9 @@
 ### GraphGT: Machine Learning Datasets for Graph Generation and Transformation
 
-[![website](https://img.shields.io/badge/website-live-brightgreen)](https://graphgen-dc.github.io/)
+[![website](https://img.shields.io/badge/website-live-brightgreen)](https://graphgt.github.io/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/yuanqidu/GraphGT)](https://github.com/yuanqidu/GraphGT/stargazers)
 
-[**Dataset Website**](https://graphgen-dc.github.io/) | [**Paper**](https://graphgen-dc.github.io/)
+[**Dataset Website**](https://graphgt.github.io/) | [**Paper**](https://graphgen-dc.github.io/)
 
 ## Installation
 
