@@ -1,34 +1,27 @@
 # add dataset name here by category
-molecule_dataset_name = ['qm9']
-protein_dataset_name = ['profold']
-brain_dataset_name = ['brain']
-physics_dataset_name = ['physics']
-collaboration_dataset_name = ['collabNet']
-circuit_dataset_name = ['circuitNet']
-traffic_dataset_name = ['traffNet']
-authentication_dataset_name = ['authenNet']
-IoT_dataset_name = ['IoTNet']
-skeleton_dataset_name = ['skeNet']
-scene_dataset_name = ['scene']
-synthetic_dataset_name = ['BA_small']
-
-dataset_names = {"molecule": molecule_dataset_name,
-                 "protein": protein_dataset_name,
-                 "brain": brain_dataset_name,
-                 "physics": physics_dataset_name,
-                 "collaboration": collaboration_dataset_name,
-                 "circuit": circuit_dataset_name,
-                 "traffic": traffic_dataset_name,
-                 "authentication": authentication_dataset_name,
-                 "IoT": IoT_dataset_name,
-                 "skeleton": skeleton_dataset_name,
-                 "scene": scene_dataset_name,
-                 "synthetic": synthetic_dataset_name,
+single_dataset_download_path = {
+    'qm9':{
+    'node_feat': 'https://www.dropbox.com/s/e4tshkics27yy2p/node_feat.npy?dl=1',
+    'edge_feat': 'https://www.dropbox.com/s/1vmg32xukgl8ht5/edge_feat.npy?dl=1',
+    'adj': 'https://www.dropbox.com/s/vvjw3je7x4y1ky0/adj.npy?dl=1',
+    'spatial': 'https://www.dropbox.com/s/inrwoers07kiy5q/spatial.npy?dl=1',
+    'label': 'https://www.dropbox.com/s/ipol2pnq1902sw9/label.npy?dl=1'
+}
 }
 
-# add dataset name here by feature
-node_feat_dataset_names = ['BA_small']
-edge_feat_dataset_names = []
-label_dataset_names = []
-spatial_dataset_names = []
-temporal_dataset_names = []
+
+pair_dataset_download_path = {
+    'BA_20':{
+    'input_node_feat': 'https://www.dropbox.com/s/tlezqs8l6v1biyp/input_node_feat.npy?dl=1',
+    'input_edge_feat': 'https://www.dropbox.com/s/y8slffkuxevi1v9/input_edge_feat.npy?dl=1',
+    'input_adj': 'https://www.dropbox.com/s/9dvucxks1vc3gt6/input_adj.npy?dl=1',
+    'target_node_feat': 'https://www.dropbox.com/s/2ta8ugr5quitv8f/target_node_feat.npy?dl=1',
+    'target_edge_feat': 'https://www.dropbox.com/s/cch6cavmiczm1yc/target_edge_feat.npy?dl=1',
+    'target_adj': 'https://www.dropbox.com/s/bcs80s95ot92o04/target_adj.npy?dl=1'
+}
+}
+
+dataset = {
+    'single': ['qm9'],
+    'pair': ['BA_20']
+}
