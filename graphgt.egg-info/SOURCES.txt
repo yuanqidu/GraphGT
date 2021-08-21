@@ -1,0 +1,13 @@
+README.md
+setup.py
+graphgt/__init__.py
+graphgt/dataloader.py
+graphgt/evaluator.py
+graphgt/meta.py
+graphgt/utils.py
+graphgt/visualizer.py
+graphgt.egg-info/PKG-INFO
+graphgt.egg-info/SOURCES.txt
+graphgt.egg-info/dependency_links.txt
+graphgt.egg-info/requires.txt
+graphgt.egg-info/top_level.txt
