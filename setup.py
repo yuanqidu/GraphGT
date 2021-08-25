@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
       name='graphgt',
-      version='0.1.3',
+      version='0.1.8',
       description='A Graph Generation and Transformation Dataset Collection',
       url='https://graphgt.github.io/',
       author='Yuanqi Du',
@@ -13,6 +13,6 @@ setup(
       classifiers=[
                    'Intended Audience :: Science/Research',
                    'Operating System :: POSIX :: Linux',
-                   'Programming Language :: Python :: 3.5',
+                   'Programming Language :: Python :: 3.7',
                    ],
       )

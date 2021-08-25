@@ -33,7 +33,7 @@ def load_single_dataset(name, save_path='./'):
             dataverse_download(download_path['adj'], os.path.join(save_path,'adj.npy'))
             print_sys("Done!")
         if 'label' in download_path:
-            print_sys('Downloading smiles string...')
+            print_sys('Downloading labels...')
             dataverse_download(download_path['label'], os.path.join(save_path,'label.npy'))
             print_sys("Done!")
 
@@ -87,11 +87,11 @@ def load_pair_dataset(name, save_path='./'):
             dataverse_download(download_path['target_spatial'], os.path.join(save_path,'target_spatial.npy'))
             print_sys("Done!")
         if 'target_adj' in download_path:
-            print_sys('Downloading adjacency matrix...')
+            print_sys('Downloading target adjacency matrix...')
             dataverse_download(download_path['target_adj'], os.path.join(save_path,'target_adj.npy'))
             print_sys("Done!")
         if 'label' in download_path:
-            print_sys('Downloading smiles string...')
+            print_sys('Downloading labels...')
             dataverse_download(download_path['label'], os.path.join(save_path,'label.npy'))
             print_sys("Done!")
 

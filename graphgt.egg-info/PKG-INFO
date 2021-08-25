@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: graphgt
-Version: 0.1.3
+Version: 0.1.8
 Summary: A Graph Generation and Transformation Dataset Collection
 Home-page: https://graphgt.github.io/
 Author: Yuanqi Du
@@ -10,4 +10,4 @@ Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Intended Audience :: Science/Research
 Classifier: Operating System :: POSIX :: Linux
-Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.7

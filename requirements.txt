@@ -1,0 +1,6 @@
+rdkit
+numpy
+seaborn
+dictances
+requests
+scipy      
