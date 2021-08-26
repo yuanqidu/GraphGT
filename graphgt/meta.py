@@ -127,28 +127,28 @@ single_dataset_download_path = {
 
 pair_dataset_download_path = {
     'BA_20':{
-    'input_node_feat': 'https://www.dropbox.com/s/tlezqs8l6v1biyp/input_node_feat.npy?dl=1',
-    'input_edge_feat': 'https://www.dropbox.com/s/y8slffkuxevi1v9/input_edge_feat.npy?dl=1',
-    'input_adj': 'https://www.dropbox.com/s/9dvucxks1vc3gt6/input_adj.npy?dl=1',
-    'target_node_feat': 'https://www.dropbox.com/s/2ta8ugr5quitv8f/target_node_feat.npy?dl=1',
-    'target_edge_feat': 'https://www.dropbox.com/s/cch6cavmiczm1yc/target_edge_feat.npy?dl=1',
-    'target_adj': 'https://www.dropbox.com/s/bcs80s95ot92o04/target_adj.npy?dl=1'
+    'input_node_feat': 'https://www.dropbox.com/s/1xysnbquhjbxnqy/input_node.npy?dl=1',
+    'input_edge_feat': 'https://www.dropbox.com/s/4l126zrx2cu7tbb/input_edge.npy?dl=1',
+    'input_adj': 'https://www.dropbox.com/s/fv1sqa0xqmslrj3/input_adj.npy?dl=1',
+    'target_node_feat': 'https://www.dropbox.com/s/4rfeo9umtue73ww/target_node.npy?dl=1',
+    'target_edge_feat': 'https://www.dropbox.com/s/qhl6te9nn15rs7p/target_edge.npy?dl=1',
+    'target_adj': 'https://www.dropbox.com/s/1gb0hm7miqj292n/target_adj.npy?dl=1'
 },
     'BA_40':{
-    'input_node_feat': 'https://www.dropbox.com/s/dyeh1sssdenmsx6/input_node_feat.npy?dl=1',
-    'input_edge_feat': 'https://www.dropbox.com/s/y5i9nbs1azicyw7/input_edge_feat.npy?dl=1',
-    'input_adj': 'https://www.dropbox.com/s/enmttky87s3pzz7/input_adj.npy?dl=1',
-    'target_node_feat': 'https://www.dropbox.com/s/03ufa0e6ggfycpx/target_node_feat.npy?dl=1',
-    'target_edge_feat': 'https://www.dropbox.com/s/bwaqifl0r8kjak2/target_edge_feat.npy?dl=1',
-    'target_adj': 'https://www.dropbox.com/s/io47wh7yf0pq2gx/target_adj.npy?dl=1'
+    'input_node_feat': 'https://www.dropbox.com/s/zk6nlyvc6q3renc/input_node.npy?dl=1',
+    'input_edge_feat': 'https://www.dropbox.com/s/gz15mln48lcq5na/input_edge.npy?dl=1',
+    'input_adj': 'https://www.dropbox.com/s/1hps17g520ffcjs/input_adj.npy?dl=1',
+    'target_node_feat': 'https://www.dropbox.com/s/xbbmhzad7wmvtzu/target_node.npy?dl=1',
+    'target_edge_feat': 'https://www.dropbox.com/s/u76e7wzfx7y2ta2/target_edge.npy?dl=1',
+    'target_adj': 'https://www.dropbox.com/s/pj5fi6tumbptmuu/target_adj.npy?dl=1'
 },
     'BA_60':{
-    'input_node_feat': 'https://www.dropbox.com/s/ibbd4v86aeujajn/input_node.npy?dl=1',
-    'input_edge_feat': 'https://www.dropbox.com/s/punhxmqzd1tzaat/input_edge.npy?dl=1',
-    'input_adj': 'https://www.dropbox.com/s/812jt3fpggwnnow/input_adj.npy?dl=1',
-    'target_node_feat': 'https://www.dropbox.com/s/2565w0ojz7pi4f2/target_node.npy?dl=1',
-    'target_edge_feat': 'https://www.dropbox.com/s/j9083i2sts1z058/target_edge.npy?dl=1',
-    'target_adj': 'https://www.dropbox.com/s/92hoz83je52e7z5/target_adj.npy?dl=1'
+    'input_node_feat': 'https://www.dropbox.com/s/i3nfyskyj6gj9ku/input_node.npy?dl=1',
+    'input_edge_feat': 'https://www.dropbox.com/s/3881212yw8wx8pv/input_edge.npy?dl=1',
+    'input_adj': 'https://www.dropbox.com/s/46i7h5vlaep41ob/input_adj.npy?dl=1',
+    'target_node_feat': 'https://www.dropbox.com/s/eznhs2aiq87lgh9/target_node.npy?dl=1',
+    'target_edge_feat': 'https://www.dropbox.com/s/ys8jo83sjrantg0/target_edge.npy?dl=1',
+    'target_adj': 'https://www.dropbox.com/s/0zthg9waogtm5fj/target_adj.npy?dl=1'
 },
     'scale_free_10':{
     'input_edge_feat': 'https://www.dropbox.com/s/8sl4mi2pvp2sw70/input_edge.npy?dl=1',
