@@ -23,6 +23,11 @@ pip install GraphGT --upgrade
 
 ### DataLoader Keys
 
+```bash
+import graphgt 
+dataloader = graphgt.DataLoader(name='qm9', save_path='./', format='numpy')
+```
+
 qm9, zinc, moses, chembl, profold, kinetics, ntu, collab, n_body_charged, n_body_spring, random_geometry, waxman, traffic_bay, traffic_la, scale_free_{10|20|50|100}, ER_{20|40|60}, IoT_{20|40|60}, authen.
 
 ## Cite Us
