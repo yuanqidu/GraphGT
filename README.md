@@ -21,6 +21,10 @@ pip install GraphGT
 pip install GraphGT --upgrade
 ```
 
+### DataLoader
+
+qm9, zinc, moses, chembl, profold, kinetics, ntu, collab, n_body_charged, n_body_spring, random_geometry, waxman, traffic_bay, traffic_la, BA_{20|40|60}, scale_free_{10|20|50|100}, ER_{20|40|60}, IoT_{20|40|60}, authen.
+
 ## Cite Us
 
 If you use our dataset in your work, please cite us:
