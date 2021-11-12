@@ -1,4 +1,4 @@
-### GraphGT: Machine Learning Datasets for Graph Generation and Transformation
+### GraphGT: Machine Learning Datasets for Graph Generation and Transformation (NeurIPS 2021)
 
 [![website](https://img.shields.io/badge/website-live-brightgreen)](https://graphgt.github.io/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/yuanqidu/GraphGT)](https://github.com/yuanqidu/GraphGT/stargazers)
@@ -35,9 +35,10 @@ KEY: 'qm9', 'zinc', 'moses', 'chembl', 'profold', 'kinetics', 'ntu', 'collab', '
 If you use our dataset in your work, please cite us:
 
 ```
-@article{graphgt,
+@inproceedings{du2021graphgt,
   title={GraphGT: Machine Learning Datasets for Graph Generation and Transformation},
-  author={Du, Yuanqi and Wang, Shiyu and Guo, Xiaojie and Cao, Hengning and Jiang, Junji and Hu, Shujie and Varala, Aishwarya and Angirekula, Abhinav and Zhao, Liang},
+  author={Du, Yuanqi and Wang, Shiyu and Guo, Xiaojie and Cao, Hengning and Hu, Shujie and Jiang, Junji and Varala, Aishwarya and Angirekula, Abhinav and Zhao, Liang},
+  booktitle={NeurIPS 2021},
   year={2021}
 }
 ```
