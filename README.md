@@ -46,5 +46,8 @@ If you use our dataset in your work, please cite us:
 ## Team
 [Yuanqi Du](https://yuanqidu.github.io/) (Leader), Shiyu Wang, Xiaojie Guo, Hengning Cao, Shujie Hu, Junji Jiang, Aishwarya Varala, Abhinav Angirekula, [Liang Zhao](http://cs.emory.edu/~lzhao41/) (Advisor)
 
+## Issue
+Please raise a GitHub issue if you have any question.
+
 ## Contact
 Send us an [email](mailto:ydu6@gmu.edu) or open an issue.
