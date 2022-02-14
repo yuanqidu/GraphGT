@@ -30,6 +30,8 @@ dataloader = graphgt.DataLoader(name=KEY, save_path='./', format='numpy')
 
 KEY: 'qm9', 'zinc', 'moses', 'chembl', 'profold', 'kinetics', 'ntu', 'collab', 'n_body_charged', 'n_body_spring', 'random_geometry', 'waxman', 'traffic_bay', 'traffic_la', 'scale_free_{10|20|50|100}', 'ER_{20|40|60}', 'IoT_{20|40|60}', 'authen'.
 
+**All the datasets could be downloaded by the link in [our website](https://graphgt.github.io/), while we are working hard to make sure all of them are downloadable through pip.**
+
 ## Cite Us
 
 If you use our dataset in your work, please cite us:
