@@ -5,6 +5,8 @@
 
 [**Dataset Website**](https://graphgt.github.io/) | [**Paper**](https://openreview.net/forum?id=NYgt9vcdyjm)
 
+**Anouncement** As the data downloading through pip-package is problematic, especially for large files, we encourage you to download the dataset by the downloadable link (clicking the name of the dataset) provided [here](https://graphgt.github.io/).
+
 ## Installation
 
 ### Using `pip`
